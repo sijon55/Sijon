@@ -1,0 +1,44 @@
+ body{
+	 background:;
+	 font-family:arial black;
+	 color:#4285f4;
+	 text-decoration: none;
+	 text-underline: none ;
+ }
+#rudi{background:black;
+      color:red;
+	  padding:5px;
+	  fonts-size:10px; 
+	  text-align:center;
+}
+
+.rudi{background:black;
+      color:red;
+	  padding:5px;
+	  fonts-size:500px; 
+	  text-align:center;
+	  }
+.awm{color:#739CD6; 
+	text-align:center;
+	}
+.ak{color:#f35441; 
+	text-align:center;
+	}
+.m416{color:#4285f4; 
+	text-align:center;
+	}
+.aug{color:#4BB266; 
+	text-align:center;
+	}
+.m24{color:#CB46c9; 
+	text-align:center;
+	}
+.m249{background:#444; 
+	color:#ddd; 
+	font-size:50px; 
+	font-family:arial black; 
+	text-align:center;
+	}
+.center{
+	text-align:center;
+}
